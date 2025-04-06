@@ -1,4 +1,4 @@
-##Estudo de Caso: Pesquisa Inteligente com Azure Cognitive Search e IA Search
+#Estudo de Caso: Pesquisa Inteligente com Azure Cognitive Search e IA Search
 #Este é mais um desafio proposto como estudo de caso, desta vez focado na mineração de conhecimento com uso do Azure Cognitive Search e do IA Search, recursos oferecidos pela nuvem da Microsoft para transformar dados dispersos em insights valiosos.
 
 Em um cenário onde os dados estão espalhados em diferentes formatos — seja em PDFs, arquivos .txt, imagens, vídeos ou até documentos físicos digitalizados — encontrar informações relevantes em escala se torna cada vez mais necessário. E é exatamente para isso que entra o Azure Cognitive Search, uma plataforma completa de mineração de dados com suporte à Inteligência Artificial do Azure.
